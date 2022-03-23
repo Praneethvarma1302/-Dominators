@@ -1,4 +1,4 @@
-**Week 1**
+**Week 2**
 
 
 **Meeting 1 :**
@@ -14,9 +14,9 @@ Purpose of Meeting     : Project
 
 Attendees present      :
 D B R S Praneeth Varma - 19265
-,S S S B Shravanth      - 19250
-,Matcha Gowtham         - 19234
-,Y Phani Vardhan        - 19241
+, S S S B Shravanth      - 19250
+, Matcha Gowtham         - 19234
+, Y Phani Vardhan        - 19241
 
 
 Agenda of the meeting  : Learning the concept of Class Diagram.
@@ -38,9 +38,9 @@ Purpose of Meeting     : Project
 
 Attendees present      :
 D B R S Praneeth Varma - 19265
-,S S S B Shravanth      - 19250
-,Matcha Gowtham         - 19234
-,Y Phani Vardhan        - 19241
+, S S S B Shravanth      - 19250
+, Matcha Gowtham         - 19234
+, Y Phani Vardhan        - 19241
 
 Agenda of the meeting  : Drawing the Class Diagram for our Project.
 
