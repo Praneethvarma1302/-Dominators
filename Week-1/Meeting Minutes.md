@@ -14,9 +14,9 @@ Purpose of Meeting     : Project
 
 Attendees present      :
 D B R S Praneeth Varma - 19265
-S S S B Shravanth      - 19250
-Matcha Gowtham         - 19234
-Y Phani Vardhan        - 19241
+,S S S B Shravanth      - 19250
+,Matcha Gowtham         - 19234
+,Y Phani Vardhan        - 19241
 
 
 Agenda of the meeting  : Discussion of topic selection and how to proceed further with the design of the application .
@@ -38,9 +38,9 @@ Purpose of Meeting     : Project
 
 Attendees present      :
 D B R S Praneeth Varma - 19265
-S S S B Shravanth      - 19250
-Matcha Gowtham         - 19234
-Y Phani Vardhan        - 19241
+,S S S B Shravanth      - 19250
+,Matcha Gowtham         - 19234
+,Y Phani Vardhan        - 19241
 
 Agenda of the meeting  : Learning the concepts of Use Case diagram,ER diagram
 
@@ -60,9 +60,9 @@ Purpose of Meeting     : Project
 
 Attendees present      :
 D B R S Praneeth Varma - 19265
-S S S B Shravanth      - 19250
-Matcha Gowtham         - 19234
-Y Phani Vardhan        - 19241
+,S S S B Shravanth      - 19250
+,Matcha Gowtham         - 19234
+,Y Phani Vardhan        - 19241
 
 Agenda of the meeting  : Drawing Use case Diagram
 
@@ -83,9 +83,9 @@ Purpose of Meeting     : Project
 
 Attendees present      :
 D B R S Praneeth Varma - 19265
-S S S B Shravanth      - 19250
-Matcha Gowtham         - 19234
-Y Phani Vardhan        - 19241
+,S S S B Shravanth      - 19250
+,Matcha Gowtham         - 19234
+,Y Phani Vardhan        - 19241
 
 Agenda of the meeting  : Drawing ER diagram and completing User Stories
 
