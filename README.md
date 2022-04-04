@@ -1,2 +1,2 @@
-# -Dominators
-Hotel Management System using Python GUI
+# - Hotel Management System using Python GUI
+Team - Dominators
