@@ -2,7 +2,7 @@
 
 |Task|Who|Status|Expected Date|
 | ------------- |:-------------:| ----------:|:------------:|
-|Student, Connection|Tharunkumar |Completed|22-03-2022|
-|Dashboard, Attendence|Ram Chandra Sekhar|Completed|22-03-2022|
-|Teacher, Courses|Ravikanth|Completed|22-03-2022|
-|Meeting, Database|Bhargav Naidu|Completed|22-03-2022|
+|Student, Connection|Praneeth|Completed|10-04-2022|
+|Dashboard, Attendence|Phani|Completed|10-04-2022|
+|Teacher, Courses|Shravanth|Completed|10-04-2022|
+|Meeting, Database|Gowtham|Completed|10-04-2022|
