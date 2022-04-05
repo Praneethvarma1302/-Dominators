@@ -2,7 +2,7 @@
 
 |Task|Who|Status|Expected Date|
 | ------------- |:-------------:| ----------:|:------------:|
-|Student, Connection|Praneeth|Pending|12-04-2022|
-|Dashboard, Attendence|Phani|Pending|12-04-2022|
-|Teacher, Courses|Shravanth|Pending|12-04-2022|
-|Meeting, Database|Gowtham|Pending|12-04-2022|
+|Reservation, Connection|D B R S Praneeth Varma|Pending|12-04-2022|
+|Rooms|Phani|Pending|12-04-2022|
+|Login|Shravanth|Pending|12-04-2022|
+|Payment|Gowtham|Pending|12-04-2022|
